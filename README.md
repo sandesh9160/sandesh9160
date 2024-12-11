@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?w=50" 
-       alt="MasterHead" 
-       style="width: 80%; max-width: 600px; height: auto;">
-</div>
-
+![MasterHead](https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?w=500)]
 <h1 align="center">Hi 👋, I'm Sandesh Kenchugundi</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
